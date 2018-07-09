@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#Rstats on Reproducible Medical Research</title>
+    <link>/tags/#rstats/</link>
+    <description>Recent content in #Rstats on Reproducible Medical Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/#rstats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Launching Reproducible Medical Research in R</title>
+      <link>/post/launching-reproducible-medical-research-in-r/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/launching-reproducible-medical-research-in-r/</guid>
+      <description> Testing testing 1,2,3
+This is only a test </description>
+    </item>
+    
+  </channel>
+</rss>
