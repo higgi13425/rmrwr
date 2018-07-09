@@ -7,24 +7,24 @@ title = "First Post"
 weight = 0
 +++
 
-### Testing
+### Launching Reproducible Medical Research with R
 
-Testing
+This is a first go-around
 <!--more-->
 
-#### Testing
+#### Testing header 4
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-3. yeah
+1. List 1.
+2. List 2.
+3. Item 3
 
-> The Big Oxmox advised her not to do so.
+> Arrow Bump The Big Oxmox advised her not to do so.
 
 ## Header Level 2
 
 Text.
 
-More Text.
+### Header 3 More Text.
 
 * Bullet 1.
 * Bullet 2.
