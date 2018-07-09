@@ -7,11 +7,7 @@ title = "Launching Reproducible Medical Research with R"
 weight = 0
 +++
 
-### Launching Reproducible Medical Research with R
-
-This is a first go-around
-
-#### Goals
+### Goals
 
 1. List 1.
 2. List 2.
