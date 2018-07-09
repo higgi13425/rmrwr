@@ -3,10 +3,11 @@ date = "2018-07-14T21:05:33+05:30"
 title = "About me"
 +++
  
-Information <br/> I am interested in making medical research more open and reproducible.
+I am interested in making medical research more open and reproducible, using R and RStudio.
  
 <br/>
 I encourage trainees to learn R and to share data and code.
+I rely on Rbasics, ModernDive, DataCamp, and R For Data Science as teaching tools.
  
 ![This is me][1]
  
