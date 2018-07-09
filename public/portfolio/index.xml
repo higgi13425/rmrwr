@@ -6,10 +6,21 @@
     <description>Recent content in Portfolios on Reproducible Medical Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Launching Reproducible Medical Research with R</title>
+      <link>/portfolio/launching/</link>
+      <pubDate>Sun, 08 Jul 2018 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/launching/</guid>
+      <description>14 July 2018
+This is a blog about working toward more reproducible medical research using R and associated tools, particularly those developed by RStudio.
+Goals  Making it easier to share data. Making it easier to create literate code, and share this code. Training the next generation of medical researchers to use ROpenSci tools, open research, and to encourage others to evaluate their data and their code to improve it.</description>
+    </item>
     
     <item>
       <title>Name of the work 2</title>
@@ -89,16 +100,6 @@
       <guid>/portfolio/work9/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Launching Reproducible Medical Research with R</title>
-      <link>/portfolio/launching/</link>
-      <pubDate>Sun, 08 Jul 2018 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/launching/</guid>
-      <description>This is a blog about working toward more reproducible medical research using R and associated tools, particularly those developed by RStudio.
-Goals  Making it easier to share data. Making it easier to create literate code, and share this code. Training the next generation of medical researchers to use ROpenSci tools, open research, and to encourage others to evaluate their data and their code to improve it.  Secondary Gains  A repository of Things I have Learned (TILs) that I might want to reference in the future.</description>
     </item>
     
     <item>
