@@ -3,16 +3,15 @@ showonlyimage = true
 draft = false
 image = "img/cool_image.jpg"
 date = "2018-07-08T18:25:22+05:30"
-title = "First Post"
+title = "Launching Reproducible Medical Research with R"
 weight = 0
 +++
 
 ### Launching Reproducible Medical Research with R
 
 This is a first go-around
-<!--more-->
 
-#### Testing header 4
+#### Goals
 
 1. List 1.
 2. List 2.
@@ -20,13 +19,13 @@ This is a first go-around
 
 > Arrow Bump The Big Oxmox advised her not to do so.
 
-## Header Level 2
+### Objectives
 
 Text.
 
-### Header 3 More Text.
+### Aims.
 
 * Bullet 1.
 * Bullet 2.
 
-Final text 
+Final body text 
