@@ -1,12 +1,10 @@
 ---
-title: Launching Reproducible Medical Research in R
-author: Peter Higgins
+title: "Launching Reproducible Medical Research in R"
+author: "Peter Higgins"
 date: '2018-07-08'
 slug: launching-reproducible-medical-research-in-r
-categories:
-  - R
-tags:
-  - rstats
+tags: rstats
+categories: R
 ---
 
 ### Testing
