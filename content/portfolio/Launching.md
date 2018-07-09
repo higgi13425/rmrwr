@@ -7,21 +7,17 @@ title = "Launching Reproducible Medical Research with R"
 weight = 0
 +++
 
+This is a blog about working toward more reproducible medical research using R and associated tools, particularly those developed by RStudio.
+
 ### Goals
 
-1. List 1.
-2. List 2.
-3. Item 3
+1. Making it easier to share data.
+2. Making it easier to create literate code, and share this code.
+3. Training the next generation of medical researchers to use ROpenSci tools, open research, and to encourage others to evaluate their data and their code to improve it.
 
-> Arrow Bump The Big Oxmox advised her not to do so.
+### Secondary Gains
 
-### Objectives
+1. A repository of Things I have Learned (TILs) that I might want to reference in the future.
+2. A repository of things I want to teach and share with medical research trainees.
 
-Text.
-
-### Aims.
-
-* Bullet 1.
-* Bullet 2.
-
-Final body text 
+### Here Goes Nothing
