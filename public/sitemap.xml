@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/portfolio/work1/</loc>
+    <lastmod>2018-07-08T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/launching-reproducible-medical-research-in-r/</loc>
     <lastmod>2018-07-08T00:00:00+00:00</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -33,7 +33,7 @@
   
   <url>
     <loc>/portfolio/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <lastmod>2018-07-08T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,7 +51,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-08T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,22 @@
     <description>Recent content on Reproducible Medical Research</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Post</title>
+      <link>/portfolio/work1/</link>
+      <pubDate>Sun, 08 Jul 2018 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work1/</guid>
+      <description>&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;Testing
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Launching Reproducible Medical Research in R</title>
@@ -19,16 +31,6 @@
       <guid>/post/launching-reproducible-medical-research-in-r/</guid>
       <description>Testing Testing
 Testing 1,2,3</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 1</title>
-      <link>/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/portfolio/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-&lt;/p&gt;</description>
     </item>
     
     <item>
