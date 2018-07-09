@@ -5,13 +5,14 @@ date: '2018-07-08'
 slug: launching-reproducible-medical-research-in-r
 categories:
   - R
-draft: FALSE
 tags:
-  - 'rstats'
+  - rstats
 ---
 
-### Testing testing
+### Testing
+
+Testing
+
+#### Testing
 
 1,2,3
-
-#### This is only a test
