@@ -7,7 +7,7 @@ categories:
   - R
 draft: FALSE
 tags:
-  - '#rstats'
+  - 'rstats'
 ---
 
 ### Testing testing
