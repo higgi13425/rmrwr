@@ -1,10 +1,10 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/cool_image.jpg"
 date = "2018-07-08T18:25:22+05:30"
 title = "Launching Reproducible Medical Research with R"
-weight = 0
+weight = 10
 +++
 
 This is a blog about working toward more reproducible medical research using R and associated tools, particularly those developed by RStudio.
