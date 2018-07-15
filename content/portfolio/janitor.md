@@ -13,7 +13,7 @@ Data often arrive with many un-tidy features, including ugly variable (column) n
 
 This makes data wrangling your variables difficult. One great tool to make this process easier is the janitor package, by Sam Firke @samfirke, from right here in Ann Arbor, Michigan.
 
-![Sam Firke]('peterhiggins/Documents/Rcode/rmrwr/static/img/samfirke.jpeg')
+![Sam Firke][1]
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
@@ -30,3 +30,5 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Aliquam tincidunt mauris eu risus.
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+
+[1]: /img/samfirke.jpg
