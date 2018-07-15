@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/launching/</loc>
-    <lastmod>2018-07-08T18:25:22+05:30</lastmod>
+    <loc>/portfolio/janitor/</loc>
+    <lastmod>2018-07-15T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>/portfolio/launching/</loc>
+    <lastmod>2018-07-08T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -28,6 +28,10 @@
   </url>
   
   <url>
+    <loc>/portfolio/work2/</loc>
+  </url>
+  
+  <url>
     <loc>/post/2018-07-08-launching-reproducible-medical-research-in-r/</loc>
   </url>
   
@@ -38,7 +42,7 @@
   
   <url>
     <loc>/portfolio/</loc>
-    <lastmod>2018-07-08T18:25:22+05:30</lastmod>
+    <lastmod>2018-07-15T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,7 +60,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-07-08T18:25:22+05:30</lastmod>
+    <lastmod>2018-07-15T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
