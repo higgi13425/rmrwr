@@ -13,7 +13,8 @@ Data often arrive with many un-tidy features, including ugly variable (column) n
 
 This makes data wrangling your variables difficult. One great tool to make this process easier is the janitor package, by Sam Firke @samfirke, from right here in Ann Arbor, Michigan.
 
-![Sam Firke][1]
+![Sam Firke](/portfolio/samfirke.jpg)
+![Janitor Hex sticker](/portfolio/janitor_files/janitor.png)
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
