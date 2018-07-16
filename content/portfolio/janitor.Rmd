@@ -1,0 +1,45 @@
++++
+date = "2018-07-15T19:41:01+05:30"
+title = "Cleaning Data with Janitor"
+draft = false
+image = "img/janitor.png"
+showonlyimage = false
+weight = 1
++++
+
+Data often arrive with many un-tidy features, including ugly variable (column) names that include spaces, punctuation, and unpredictable capitalization.
+
+This makes data wrangling your variables difficult. One great tool to make this process easier is the janitor package, by Sam Firke @samfirke, from right here in Ann Arbor, Michigan.
+
+![Sam Firke][1]
+![Janitor Hex sticker][2]
+
+Janitor has many useful functions (23 as of March 2018), but I will only focus on a few. The *clean_names* function is usually what brings people to the janitor package. I will start with an example. *clean_names* takes your variable names (column names) from a dataframe or tibble, and cleans them up. This means it: 
+1. makes them all lower case
+2. it strips out punctuation
+3. it replaces spaces with single underscores
+
+As an example:
+```{r clean_names}
+firstName <- c("Bob", "Jim", "Amy", "Alexa", "Siri")
+`Last Name` <- c("Hamilton", "Jefferson", "Adams", "Johnson",           "Grant")
+`add.ress` <- c("123 Jones St", "5 Smith Lane", "3 Jonson Blvd.", "17 Diaz Rd", "8 Garcia Court")
+df <- as.data.frame(c(firstName, `Last Name`, `add.ress`))
+df
+```
+
+
+
+
+## Tabyl Functions
+
+Tabyl functions allow you to count and explore your data by categorical variables.
+* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+* Aliquam tincidunt mauris eu risus.
+
+## Adorn Functions
+
+Even the all-powerful Pointing
+
+[1]: /img/samfirke.jpg
+[2]: /img/janitor.png

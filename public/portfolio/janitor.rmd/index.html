@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Name of the work 7</title>
+<title>Cleaning Data with Janitor</title>
 <meta name="description" content="New website">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -49,8 +49,6 @@
         <li><a href="/portfolio/">Home</a></li>
       
         <li><a href="/about/">About</a></li>
-      
-        <li><a href="/post/">Posts</a></li>
       
         <li><a href="/contact/">Contact</a></li>
       
@@ -104,22 +102,34 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Name of the work 7</h1>
-         <p>Fifth abundantly made Give sixth hath. Cattle creature i be don&rsquo;t them.
-</p>
+         <h1>Cleaning Data with Janitor</h1>
+         
 
-<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+<p>Data often arrive with many un-tidy features, including ugly variable (column) names that include spaces, punctuation, and unpredictable capitalization.</p>
 
-<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+<p>This makes data wrangling your variables difficult. One great tool to make this process easier is the janitor package, by Sam Firke @samfirke, from right here in Ann Arbor, Michigan.</p>
 
-<ol>
-<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-<li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
+<p><img src="/img/samfirke.jpg" alt="Sam Firke" />
+<img src="/img/janitor.png" alt="Janitor Hex sticker" /></p>
 
-<blockquote>
-<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn&rsquo;t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-</blockquote>
+<p>Janitor has many useful functions (23 as of March 2018), but I will only focus on a few. The <em>clean_names</em> function is usually what brings people to the janitor package. I will start with an example. <em>clean_names</em> takes your variable names (column names) from a dataframe or tibble, and cleans them up. This means it:
+1. makes them all lower case
+2. it strips out punctuation
+3. it replaces spaces with single underscores</p>
+
+<p>As an example:</p>
+
+<p>```{r clean</p>
+
+<p>firstName &lt;- c(&ldquo;Bob&rdquo;, &ldquo;Jim&rdquo;, &ldquo;Amy&rdquo;, &ldquo;Alexa&rdquo;, &ldquo;Siri&rdquo;)</p>
+
+<p><code>Last Name</code> &lt;- c(&ldquo;Hamilton&rdquo;, &ldquo;Jefferson&rdquo;, &ldquo;Adams&rdquo;, &ldquo;Johnson&rdquo;,           &ldquo;Grant&rdquo;)</p>
+
+<p><code>add.ress</code> &lt;- c(&ldquo;123 Jones St&rdquo;, &ldquo;5 Smith Lane&rdquo;, &ldquo;3 Jonson Blvd.&rdquo;, &ldquo;17 Diaz Rd&rdquo;, &ldquo;8 Garcia Court&rdquo;)</p>
+
+<p>df &lt;- as.data.frame(firstName, <code>Last Name</code>, <code>add.ress</code>)
+}
+```</p>
 
 <h2 id="header-level-2">Header Level 2</h2>
 
@@ -133,6 +143,7 @@
 </ul>
 
 <p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then</p>
+
          
       </div>
     </div>
