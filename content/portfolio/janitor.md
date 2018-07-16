@@ -2,7 +2,7 @@
 date = "2018-07-15T19:41:01+05:30"
 title = "Cleaning Data with Janitor"
 draft = false
-image = "/img/janitor.png/"
+image = "/static/img/janitor.png/"
 showonlyimage = false
 weight = 1
 +++
